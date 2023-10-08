@@ -1,0 +1,34 @@
+.image{
+    border-radius: 50%;
+}
+.hero{
+    background-color:#FFF5E4;
+}
+.resume{
+  background-color: #FFE3E1;
+}
+ .certificates{
+  background-color: #FFD1D1;
+}
+.p-heading{
+  text-align: center;
+  padding-top: 10px;
+  text-decoration: underline;
+}
+.w-100{
+  width: 75% !important;
+}
+.carousel  .d-block{
+  display: flex !important;
+  justify-content: center !important;
+  text-align: center !important;
+  align-items: center !important;
+  padding-left: 300px !important;
+  padding-bottom: 20px !important;
+}
+.footer{
+  background-color: #FF9494;
+}
+.header{
+  background-color:#EAD7BB ;
+}
